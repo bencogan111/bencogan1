@@ -1,0 +1,6 @@
+name = "Writer"
+license = "MIT"
+description = "A modern, polished theme for personal writing"
+
+[author]
+  name = "Ben Cogan"

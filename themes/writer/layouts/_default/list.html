@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="posts-list">
+  <h1 class="section-title">{{ .Title }}</h1>
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $paginator.Pages }}
+  <article class="post-preview">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+    <p class="excerpt">{{ .Summary }}</p>
+    <a href="{{ .Permalink }}" class="read-more">Continue reading &rarr;</a>
+  </article>
+  {{ end }}
+
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="prev">&larr; Newer</a>
+    {{ end }}
+    <span class="page-number">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+    {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="next">Older &rarr;</a>
+    {{ end }}
+  </nav>
+  {{ end }}
+</section>
+{{ end }}
