@@ -3,6 +3,14 @@
   <h1>{{ .Site.Params.description }}</h1>
 </section>
 
+<nav class="topic-filters">
+  <a href="/" class="topic-pill active">All</a>
+  {{ range .Site.Taxonomies.tags }}
+    {{ $name := .Page.Title }}
+    <a href="{{ .Page.Permalink }}" class="topic-pill">{{ $name }}</a>
+  {{ end }}
+</nav>
+
 <section class="posts-list">
   {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
   {{ range $paginator.Pages }}
