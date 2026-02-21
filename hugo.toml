@@ -30,6 +30,14 @@ enableRobotsTXT = true
     url = "/posts/"
     weight = 1
   [[menu.main]]
+    name = "Ecommerce"
+    url = "/tags/ecommerce/"
+    weight = 2
+  [[menu.main]]
+    name = "Investing"
+    url = "/tags/investing/"
+    weight = 3
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 4

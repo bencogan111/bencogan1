@@ -1,7 +1,7 @@
 ---
 title: "Ecommerce Is Easy. That's What Makes It Hard."
 date: 2024-10-25
-tags: ["ecommerce", "DTC", "entrepreneurship"]
+tags: ["ecommerce"]
 summary: "One of the best things about ecommerce entrepreneurship is that it doesn't require much technical skill. Paradoxically, this is what makes it incredibly difficult."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Will Let Brands Know Everything About Their Customers"
 date: 2025-02-15
-tags: ["ecommerce", "AI"]
+tags: ["ecommerce"]
 summary: "Very soon, AI will let brands know all publicly available info about their customers. This is going to revolutionize ecommerce."
 ---
 
