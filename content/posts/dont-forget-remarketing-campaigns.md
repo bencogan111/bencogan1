@@ -1,7 +1,7 @@
 ---
 title: "Don't Forget Remarketing Campaigns"
 subtitle: "There's a third campaign type that many companies surprisingly forget"
-date: 2023-03-15
+date: 2023-03-04
 tags: ["ecommerce"]
 ---
 

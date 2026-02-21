@@ -1,7 +1,7 @@
 ---
 title: "DTC Bankruptcies Are Just Beginning"
 subtitle: "Two major public DTC companies just declared bankruptcy or sold for pennies—and it's not hard to predict who's next"
-date: 2023-11-01
+date: 2023-10-04
 tags: ["ecommerce"]
 ---
 

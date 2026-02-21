@@ -1,7 +1,7 @@
 ---
 title: "Public DTC Performance: 2024 Update"
 subtitle: "With some key exceptions, it's worse than last year"
-date: 2024-06-25
+date: 2024-04-02
 tags: ["ecommerce"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Earning vs. Investing Early in Your Career"
 subtitle: "Being a good investor matters far more than earning a high income for long-term wealth"
-date: 2022-05-15
+date: 2022-12-28
 tags: ["investing"]
 ---
 

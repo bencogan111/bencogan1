@@ -1,7 +1,7 @@
 ---
 title: "Branded Search Is a Waste of Money"
 subtitle: "In many cases, the customers you acquire through branded search aren't truly incremental"
-date: 2022-06-01
+date: 2023-01-28
 tags: ["ecommerce"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Only One VC-Backed Company Is Meaningfully Profitable"
 subtitle: "Of hundreds of public VC-backed companies founded in the last 15 years, only one is meaningfully profitable"
-date: 2023-05-15
+date: 2023-04-12
 tags: ["startups"]
 ---
 

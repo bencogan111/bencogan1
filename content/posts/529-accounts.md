@@ -1,7 +1,7 @@
 ---
 title: "529 Accounts"
 subtitle: "There's an even better, more tax-efficient way to save for the future"
-date: 2022-06-15
+date: 2023-01-30
 tags: ["investing"]
 ---
 

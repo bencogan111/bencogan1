@@ -1,7 +1,7 @@
 ---
 title: "Why VC-Backed Ecommerce Scale Kills Profitability"
 subtitle: "Their size makes them unprofitable"
-date: 2024-02-25
+date: 2024-01-11
 tags: ["ecommerce"]
 ---
 

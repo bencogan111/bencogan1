@@ -1,7 +1,7 @@
 ---
 title: "VC-Backed DTC Will Likely Never Be Profitable"
 subtitle: "By their very nature, most VC-backed DTC businesses can't get there"
-date: 2023-08-01
+date: 2023-06-19
 tags: ["ecommerce"]
 ---
 

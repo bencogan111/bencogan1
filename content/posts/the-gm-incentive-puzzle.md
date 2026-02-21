@@ -1,6 +1,6 @@
 ---
 title: "The GM Incentive Puzzle"
-date: 2024-07-30
+date: 2024-04-17
 tags: ["ecommerce"]
 summary: "What is the best way for ecom business owners to incentivize the CEOs / general managers of their businesses? This is genuinely a puzzle."
 ---

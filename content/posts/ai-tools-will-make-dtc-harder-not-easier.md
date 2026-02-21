@@ -1,7 +1,7 @@
 ---
 title: "AI Tools Will Make DTC Harder, Not Easier"
 subtitle: "Lower costs for you means lower costs for everyone else"
-date: 2023-10-15
+date: 2023-08-26
 tags: ["ecommerce"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Adjusted EBITDA Is Not Profit"
 subtitle: "DTC companies are distorting their true profitability"
-date: 2023-07-15
+date: 2023-06-05
 tags: ["ecommerce"]
 ---
 

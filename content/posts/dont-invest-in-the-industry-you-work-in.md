@@ -1,6 +1,6 @@
 ---
 title: "Don't Invest in the Industry You Work In"
-date: 2024-11-20
+date: 2024-06-10
 tags: ["investing"]
 summary: "Many people I know invest in the industry in which they work. I think this is a mistake. You should be diversifying your career risk through your investment portfolio."
 ---

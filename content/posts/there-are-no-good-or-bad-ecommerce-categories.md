@@ -1,6 +1,6 @@
 ---
 title: "There Are No Good or Bad Ecommerce Categories"
-date: 2025-01-20
+date: 2025-01-06
 tags: ["ecommerce"]
 summary: "Ever since I began acquiring DTC e-commerce businesses, people have asked me which business categories are 'the best.' But I've concluded there's no such thing as a universally good or bad category."
 ---

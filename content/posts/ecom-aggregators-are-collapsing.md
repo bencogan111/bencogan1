@@ -1,7 +1,7 @@
 ---
 title: "Ecom Aggregators Are Collapsing"
 subtitle: "They collectively raised more than $15B—now they're starting to collapse"
-date: 2023-11-15
+date: 2023-10-22
 tags: ["ecommerce"]
 ---
 

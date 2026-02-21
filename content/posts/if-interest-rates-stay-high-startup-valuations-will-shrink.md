@@ -1,6 +1,6 @@
 ---
 title: "If Interest Rates Stay High, Startup Valuations Will Shrink More Than You Expect"
-date: 2024-09-20
+date: 2024-05-14
 tags: ["investing"]
 summary: "Most people expect the Fed to lower interest rates soon. But if they don't, startup valuations will shrink more than you expect: probably lower by 50%+ from where they were just 2 years ago."
 ---

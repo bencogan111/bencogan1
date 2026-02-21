@@ -1,7 +1,7 @@
 ---
 title: "Big Tech's New Startup Compensation Model"
 subtitle: "Stock options in startups that are external, but under their control"
-date: 2024-03-15
+date: 2024-01-27
 tags: ["startups"]
 ---
 

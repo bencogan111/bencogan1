@@ -1,7 +1,7 @@
 ---
 title: "Most DTC Businesses Are Now Worth Less Than They Raised"
 subtitle: "DTC has been a very bad investment for equity investors"
-date: 2023-06-01
+date: 2023-05-01
 tags: ["ecommerce"]
 ---
 

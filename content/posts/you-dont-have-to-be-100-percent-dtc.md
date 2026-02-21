@@ -1,7 +1,7 @@
 ---
 title: "You Don't Have to Be 100% DTC"
 subtitle: "A significant enough sample of direct sales captures most of the benefits"
-date: 2023-08-15
+date: 2023-07-03
 tags: ["ecommerce"]
 ---
 

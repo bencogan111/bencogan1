@@ -1,7 +1,7 @@
 ---
 title: "Include All Costs in LTV"
 subtitle: "When calculating lifetime value, you need to include all relevant costs"
-date: 2022-07-01
+date: 2023-02-03
 tags: ["ecommerce"]
 ---
 

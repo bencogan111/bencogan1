@@ -1,7 +1,7 @@
 ---
 title: "Don't Lie About Your All-In Acquisition Costs"
 subtitle: "You need to include all costs, not just marketing platform spend"
-date: 2022-11-01
+date: 2023-01-10
 tags: ["ecommerce"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Underrated Benefit of Marketing Agencies"
 subtitle: "It's much easier to align incentives and pay for performance"
-date: 2023-04-15
+date: 2023-03-28
 tags: ["ecommerce"]
 ---
 

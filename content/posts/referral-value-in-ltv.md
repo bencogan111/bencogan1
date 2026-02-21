@@ -1,7 +1,7 @@
 ---
 title: "Include Referral Value in LTV"
 subtitle: "Businesses usually forget that part of their customers' LTV is their referral of other customers"
-date: 2022-08-15
+date: 2023-02-13
 tags: ["ecommerce"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Credit Card Decline and Passive Churn"
 subtitle: "Credit card decline is one of the main reasons for subscription business churn"
-date: 2022-09-01
+date: 2023-01-02
 tags: ["ecommerce"]
 ---
 

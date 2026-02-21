@@ -1,7 +1,7 @@
 ---
 title: "Lower Barriers to Entry Make DTC Harder, Not Easier"
 subtitle: "It's never been easier to start a DTC business—and that's the problem"
-date: 2024-06-01
+date: 2024-03-20
 tags: ["ecommerce"]
 ---
 

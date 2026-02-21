@@ -1,7 +1,7 @@
 ---
 title: "Why VCs Aren't Deploying Their Dry Powder"
 subtitle: "It's because the VC's investors control the money—and they want it to be hard"
-date: 2024-05-10
+date: 2024-03-06
 tags: ["investing"]
 ---
 

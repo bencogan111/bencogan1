@@ -1,7 +1,7 @@
 ---
 title: "Ecom Brands That Can Only Exist Online"
 subtitle: "Some exceptional brands can only exist online—and that's their advantage"
-date: 2024-02-05
+date: 2023-12-26
 tags: ["ecommerce"]
 ---
 

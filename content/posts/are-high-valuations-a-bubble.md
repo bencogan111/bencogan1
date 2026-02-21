@@ -1,6 +1,6 @@
 ---
 title: "Are High Valuations a Bubble — Or a Structural Shift?"
-date: 2025-07-20
+date: 2024-11-21
 tags: ["investing"]
 summary: "Even with interest rates up, valuations haven't returned to historical norms. Many people argue this is a bubble. But what if higher valuations reflect a structural shift in how investors participate in the market?"
 ---

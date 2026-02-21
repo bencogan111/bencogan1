@@ -1,7 +1,7 @@
 ---
 title: "DTC Adjusted EBITDA"
 subtitle: "Like WeWork's Community Adjusted EBITDA, it's not real"
-date: 2024-04-20
+date: 2024-02-21
 tags: ["ecommerce"]
 ---
 

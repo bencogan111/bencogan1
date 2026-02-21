@@ -1,7 +1,7 @@
 ---
 title: "Agency Spend Rules to Align Incentives"
 subtitle: "Marketing agencies get paid when they spend more—here's how we solved the conflict of interest"
-date: 2022-04-15
+date: 2023-01-26
 tags: ["ecommerce"]
 ---
 

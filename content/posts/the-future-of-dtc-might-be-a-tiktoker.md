@@ -1,7 +1,7 @@
 ---
 title: "The Future of DTC Might Be a Tiktoker"
 subtitle: "Is the future of DTC a bootstrapped swimwear company run by a 26-year-old Tiktoker?"
-date: 2024-04-01
+date: 2024-02-12
 tags: ["ecommerce"]
 ---
 

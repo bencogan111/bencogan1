@@ -1,7 +1,7 @@
 ---
 title: "How Badly Public DTC Companies Have Performed"
 subtitle: "DTC stocks are down 85-90%, worse than the dot-com bubble"
-date: 2023-05-01
+date: 2023-04-22
 tags: ["ecommerce"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Can Any Large Ecommerce Brand Be Profitable?"
 subtitle: "I've started to think it's basically impossible"
-date: 2023-09-01
+date: 2023-07-17
 tags: ["ecommerce"]
 ---
 

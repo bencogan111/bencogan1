@@ -1,7 +1,7 @@
 ---
 title: "The 3 Types of CAC"
 subtitle: "Most founders confuse these three customer acquisition cost metrics"
-date: 2022-07-15
+date: 2023-02-08
 tags: ["ecommerce"]
 ---
 

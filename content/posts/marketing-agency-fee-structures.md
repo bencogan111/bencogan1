@@ -1,7 +1,7 @@
 ---
 title: "Marketing Agency Fee Structures"
 subtitle: "What's worked best from the brand's perspective"
-date: 2023-04-01
+date: 2023-03-20
 tags: ["ecommerce"]
 ---
 

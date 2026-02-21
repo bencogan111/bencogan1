@@ -1,7 +1,7 @@
 ---
 title: "DTC Growth Rates Declined 5x"
 subtitle: "Public DTC ecommerce growth rates declined ~5x in 2022 vs. 2021"
-date: 2023-07-01
+date: 2023-05-22
 tags: ["ecommerce"]
 ---
 

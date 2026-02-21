@@ -1,6 +1,6 @@
 ---
 title: "DTC Data Is Valuable, But Only to the Brand"
-date: 2024-08-25
+date: 2024-05-01
 tags: ["ecommerce"]
 summary: "A DTC ecommerce brand's data is valuable, but only to the brand–not an external acquirer."
 ---

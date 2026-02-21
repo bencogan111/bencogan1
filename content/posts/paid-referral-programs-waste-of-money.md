@@ -1,7 +1,7 @@
 ---
 title: "Paid Referral Programs Are Often a Waste of Money"
 subtitle: "You could be paying customers to make referrals they would have made anyway"
-date: 2022-10-15
+date: 2023-01-08
 tags: ["ecommerce"]
 ---
 

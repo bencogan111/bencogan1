@@ -1,7 +1,7 @@
 ---
 title: "DTC Acquisitions Have Gone Poorly"
 subtitle: "The acquired businesses have if anything done worse than the public ones"
-date: 2023-12-01
+date: 2023-11-08
 tags: ["ecommerce"]
 ---
 

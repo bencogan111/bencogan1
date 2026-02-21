@@ -1,7 +1,7 @@
 ---
 title: "DTC Companies Are Now Trading at 1x Revenue"
 subtitle: "Public DTC ecommerce companies are down about 80% from peak"
-date: 2023-06-15
+date: 2023-05-12
 tags: ["ecommerce"]
 ---
 

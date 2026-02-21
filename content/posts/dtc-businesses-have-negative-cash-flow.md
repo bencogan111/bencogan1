@@ -1,7 +1,7 @@
 ---
 title: "DTC Businesses Have Negative Cash Flow"
 subtitle: "They're not just unprofitable—they have an even bigger issue"
-date: 2023-09-15
+date: 2023-08-06
 tags: ["ecommerce"]
 ---
 
