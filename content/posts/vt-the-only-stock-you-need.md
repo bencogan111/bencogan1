@@ -1,7 +1,7 @@
 ---
 title: "VT: The Only Stock You Need"
 subtitle: "You only need to buy one thing to be maximally diversified in public stocks"
-date: 2022-11-20
+date: 2023-01-20
 tags: ["investing"]
 ---
 

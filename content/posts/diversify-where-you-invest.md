@@ -1,7 +1,7 @@
 ---
 title: "Diversify Where You Invest"
 subtitle: "The SVB collapse highlighted the importance of diversifying where you keep your money"
-date: 2023-02-24
+date: 2023-03-13
 tags: ["investing"]
 ---
 

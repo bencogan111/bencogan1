@@ -1,7 +1,7 @@
 ---
 title: "What the Startup Downturn Means for Your Equity"
 subtitle: "In many cases it's not just worth less—it's worth 0"
-date: 2023-11-24
+date: 2023-11-29
 tags: ["startups"]
 ---
 

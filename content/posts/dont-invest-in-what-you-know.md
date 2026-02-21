@@ -1,7 +1,7 @@
 ---
 title: "Don't Invest in What You Know"
 subtitle: "You should hedge your career risk, not double down on it with your portfolio"
-date: 2022-11-01
+date: 2023-01-19
 tags: ["investing"]
 ---
 

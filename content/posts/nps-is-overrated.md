@@ -1,7 +1,7 @@
 ---
 title: "NPS Is Overrated"
 subtitle: "NPS is actually a pretty bad and overhyped metric"
-date: 2023-01-12
+date: 2023-02-22
 tags: ["ecommerce"]
 ---
 

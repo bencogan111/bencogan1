@@ -1,7 +1,7 @@
 ---
 title: "Stock Market Volatility Is Good"
 subtitle: "A calm stock market is bad for most investors in the long run"
-date: 2022-12-15
+date: 2023-01-24
 tags: ["investing"]
 ---
 

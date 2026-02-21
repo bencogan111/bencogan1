@@ -1,7 +1,7 @@
 ---
 title: "Returning Customer Rate Doesn't Matter"
 subtitle: "What matters is customer lifetime value, not Shopify's returning customer rate"
-date: 2023-01-16
+date: 2023-02-24
 tags: ["ecommerce"]
 ---
 

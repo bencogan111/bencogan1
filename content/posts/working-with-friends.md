@@ -1,7 +1,7 @@
 ---
 title: "Working with Friends"
 subtitle: "The conventional wisdom about working with friends is wrong"
-date: 2023-01-04
+date: 2023-02-15
 tags: ["startups"]
 ---
 

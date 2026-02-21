@@ -1,7 +1,7 @@
 ---
 title: "Organic vs. Paid Acquisition"
 subtitle: "Most founders don't know how many customers come through paid vs. organic channels"
-date: 2022-12-30
+date: 2023-02-10
 tags: ["ecommerce"]
 ---
 

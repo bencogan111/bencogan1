@@ -1,7 +1,7 @@
 ---
 title: "Check the Stock Market for Marketing Platforms"
 subtitle: "Market cap tells you whether a marketing platform actually works"
-date: 2023-01-14
+date: 2023-02-27
 tags: ["ecommerce"]
 ---
 

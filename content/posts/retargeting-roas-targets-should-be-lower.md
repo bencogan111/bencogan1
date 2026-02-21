@@ -1,7 +1,7 @@
 ---
 title: "Retargeting ROAS Targets Should Be Lower"
 subtitle: "Up to 50% lower than prospecting campaign targets"
-date: 2023-03-12
+date: 2023-03-16
 tags: ["ecommerce"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Marketing Channel Customer Value Ranking"
 subtitle: "Customers from different marketing channels are not equally valuable"
-date: 2023-02-16
+date: 2023-03-09
 tags: ["ecommerce"]
 ---
 

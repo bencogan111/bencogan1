@@ -1,7 +1,7 @@
 ---
 title: "Work Trials Over Interviews"
 subtitle: "Don't hire people based on job interviews—part-time work trials are better for everyone"
-date: 2023-02-15
+date: 2023-03-07
 tags: ["startups"]
 ---
 

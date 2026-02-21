@@ -1,7 +1,7 @@
 ---
 title: "Home Bias in Investing"
 subtitle: "Most people over-invest in US stocks and miss the free lunch of geographic diversification"
-date: 2023-02-14
+date: 2023-02-28
 tags: ["investing"]
 ---
 

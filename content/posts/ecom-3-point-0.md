@@ -1,7 +1,7 @@
 ---
 title: "Ecom 3.0"
 subtitle: "VC-backed ecommerce isn't dead—but how VCs invest will change"
-date: 2023-12-10
+date: 2023-12-14
 tags: ["ecommerce"]
 ---
 

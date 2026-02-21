@@ -1,7 +1,7 @@
 ---
 title: "The Stock Market Is Back. Startups Are Not."
 subtitle: "The S&P 500 is near all-time highs but startups are still down 50-70%"
-date: 2023-09-15
+date: 2023-07-31
 tags: ["investing"]
 ---
 

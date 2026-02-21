@@ -1,6 +1,6 @@
 ---
 title: "The Fed Isn't Going to Save Ecommerce"
-date: 2024-09-23
+date: 2024-08-12
 tags: ["ecommerce"]
 summary: "I often talk with friends in the ecom space who acknowledge that valuations are low today but expect them to recover to 2016-2021 levels soon. Hate to burst your bubble, but the Fed isn't going to save us."
 ---
